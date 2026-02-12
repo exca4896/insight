@@ -1,0 +1,84 @@
+{
+  "specialist_investment_managers": [
+    {
+      "name": "Benefit Street Partners",
+      "description": "Benefit Street Partners focuses on both liquid and illiquid credit strategies, bringing global expertise in areas such as senior secured loans, structured credit and special situations across public and private markets.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Brandywine Global",
+      "description": "Brandywine Global is a specialist manager that seeks to identify value by targeting undervalued securities across a broad global spectrum of countries, currencies and quality ratings.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Clarion Partners",
+      "description": "Clarion Partners is a real estate investment manager that offers a broad range of strategies across the risk-return spectrum, helping investors gain exposure to diverse property markets worldwide.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "ClearBridge Investments",
+      "description": "ClearBridge Investments is an active equity manager providing a wide array of strategies across developed and emerging markets, local markets, real assets and income-oriented equities.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Equity",
+      "description": "Franklin Equity is an active equity specialist known for focusing on innovation and transformational change, applying deep research to identify long-term equity opportunities.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Income Investors",
+      "description": "Franklin Income Investors is dedicated to income-producing strategies that reach across the capital spectrum into multiple asset classes to help generate consistent income.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Templeton Digital Assets",
+      "description": "Franklin Templeton Digital Assets provides specialist expertise and resources to help advance digital asset investment strategies or businesses within the evolving digital finance landscape.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Templeton Fixed Income",
+      "description": "Franklin Templeton Fixed Income is a global fixed-income platform offering multisector, corporate credit, European credit and emerging markets debt capabilities.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Templeton Investment Solutions",
+      "description": "Franklin Templeton Investment Solutions builds multi-asset models and strategies by combining insights and research from across Franklin Templeton’s global platform.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Franklin Venture Partners",
+      "description": "Franklin Venture Partners invests in private companies, combining deep expertise with access to mid- and later-stage opportunities through industry, academic and venture capital networks.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Lexington Partners",
+      "description": "Lexington Partners specialises in secondary private equity and co-investment funds, including buyouts, growth capital and venture capital investments.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Putnam Investments",
+      "description": "Putnam Investments offers a range of stock-driven equity portfolios designed to deliver consistent long-term performance while managing downside risk.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Royce Investment Partners",
+      "description": "Royce Investment Partners is a small-cap equity specialist, dedicating over 95 percent of its assets to investment in smaller companies believed to offer compelling growth and value opportunities.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Templeton Global Investments",
+      "description": "Templeton Global Investments brings together extensive local presence and expertise with a flexible investment approach to give clients access to broad global growth opportunities.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Templeton Global Macro",
+      "description": "Templeton Global Macro manages flexible, actively oriented fixed-income portfolios that seek long-term value across yield curves, currencies and credit spreads.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    },
+    {
+      "name": "Western Asset",
+      "description": "Western Asset is a global fixed-income-only manager widely recognised for its active bond and credit solutions across developed and emerging markets.",
+      "email": "dummy_investment_specialist_team@outlook.com"
+    }
+  ]
+}
