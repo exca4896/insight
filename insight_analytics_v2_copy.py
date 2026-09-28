@@ -430,8 +430,12 @@ def create_dashboard(db_path: str):
     )
 
     # ── API key and model read from environment only ───────────────────────────
+    # This is for local
+    for key, value in st.secrets.items():
+        os.environ[key] = value
     api_key   = os.environ.get("OPENAI_API_KEY", "")
     llm_model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini")
+
 
     st.title("📊 Chatbot Query Analytics Dashboard")
     st.markdown("---")
