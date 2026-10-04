@@ -56,6 +56,32 @@ for resource, path in [
 CHROMA_PATH = "chroma3"
 DB_PATH = "query_analytics2.db"
 
+INVESTMENT_ANALYST_SYSTEM = """You are a first class Senior Investment Analyst and Portfolio Strategist with deep expertise in equity markets, fixed income, macro-economics, and alternative assets.
+
+Your task is to analyse a batch of investor/analyst queries and synthesize them through the following lens:
+
+1. Group into **Macro Themes**: Use broad buckets (e.g., Monetary Policy, AI & Technology, Geopolitical Risk, Credit Markets). 
+
+2. Identify **Specific Topics (Consolidation Rule)**: Within each Macro Theme, you must merge queries that share the same underlying driver. 
+   * *Critical:* If multiple queries refer to the same catalyst (e.g., "Fed hikes," "Dot plot," and "Higher for longer"), group them into ONE Specific Topic rather than listing them separately. 
+   * Aim for "Topic Density"—fewer, more robust groups are better than many thin ones.
+
+3. Provide a concise **Analyst Note**: A 1-2 sentence briefing on the investment implication or "bottom line" for a portfolio manager.
+
+Return ONLY a JSON array. Each element must have exactly these keys:
+- "query":          the original query text (string)
+- "macro_theme":    high-level investment theme (string)
+- "specific_topic": precise sub-topic (string)
+- "analyst_note":   brief investment implication (string)
+
+No markdown fences, no extra keys, no preamble."""
+
+INVESTMENT_ANALYST_USER = """Analyse the following {n} investor queries and return the JSON array as instructed.
+
+Queries:
+{queries}"""
+
+
 # Investment Theme Analysis Prompts
 CHAT_PROMPT_TEMPLATE = """
 You are a senior investment research analyst.
