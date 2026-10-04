@@ -1,0 +1,49 @@
+## Quick Thoughts: Venezuela - Implications for markets and investors
+
+Source: https://www.franklintempleton.com/articles/2026/institute/quick-thoughts-venezuela-implications-for-markets-and-investors
+
+Published: JANUARY 3, 2026 Extraction method: selenium
+
+## Quick Thoughts: Venezuela - Implications for markets and investors
+
+Originally  published  in  Stephen  Dover'sLinkedIn  Newsletter,  Global  Market  Perspectives.  Follow  Stephen  Dover  on LinkedIn where he posts his thoughts and comments as well as his Global Market Perspectives newsletter.
+
+Early Saturday morning, United States (US) military forces captured Venezuelan president Nicolas Maduro and his wife. According to US official sources, both will be held pending legal proceedings in the US.
+
+Much else, however, remains unclear. President Trump has stated publicly that the US will 'run' Venezuela, but he has provided  few  details  about  how.  Delcy  Rodriguez,  who  was  Maduro's  vice  president,  was  sworn  in  today  as  interim president and has already indicated her strong opposition to the US plans for 'regime change'.
+
+The situation is therefore uncertain and will likely remain fluid. Nevertheless, some initial implications for markets and investors are worth highlighting.
+
+US intervention is not unprecedented.The US has a long history of intervening in the Western Hemisphere. The US first formally declared its 'hegemonic interests' in the region via the Monroe Doctrine of 1823. It would therefore be incorrect, in our view, to consider today's action as a fundamental change in US foreign policy, or to suggest that similar steps might be contemplated in the Middle East or elsewhere.
+
+Defense investment becomes more important.The Trump Administration has reinforced the perception that the US is willing to act unilaterally and to use force. Other countries, with territorial interests elsewhere, could be emboldened by the US use of power. This action will also likely add to the uncertainty of the dollar's role as the "safe heaven" while raising further questions about deterioration of international institutional pillars. Today's US military action is therefore likely to reinforce the trend, well underway, for various countries worldwide to invest more in their national security. That has been one of our key investment themes since the Russian invasion of Ukraine.
+
+Limited  short-term  oil  supply  impact.Given  the  uncertainties  about  how  Venezuela  will  be  governed  and  given  the checkered US history of 'regime change' in petro-countries (e.g., Iraq or Libya),oil markets are unlikely to anticipate a rapid  increase  in  crude  oil  supplyfrom  Venezuela.  Venezuela  has  the  world's  largest  reserves  of  crude  oil  (over  300 billion  barrels),  but  the  poor  state  of  its  ageing  oil  extraction  and  transportation  infrastructure,  coupled  with  the  low quality of its 'heavy' crude, suggest that even the arrival of political stabilitywill not quickly increase its crude oil output or exports(presently around 1 million barrels per day or roughly 1% of world output). Another factor to keep in mind is that most of Venezuela's oil is exported to China.
+
+Potential long-term oil market impact stronger.Longer-term stability in Venezuela, coupled with a potential peace deal in Ukraine,could release more than 5 million barrels per day of oil onto global crude markets by the end of this decade. If so, that would amount to about 5% or more of global crude output, enough to keep oil prices depressed for longer, which would be a clear positive for global growth and a restraint on inflation.
+
+In  sum,  today's  US  military  action  is  not  unprecedented,  nor  is  it  likely  to  reflect  a  fundamental  shift  in  US  foreign policy.Alone, it cannot unlock Venezuela's massive crude oil reserves.For that, durable political stability is necessary. Accordingly, the initial reaction to today's military action across equity, fixed income and commodity markets is apt to be small. But the use of force will reinforce the view in many countries of the need toboost spending on national security. Finally, and over the longer run, a more stable, productive, and prosperous Venezuela will have thepotential to offer the world  significant  supplies  of  oil.  That  would  be  significant  for  global  growth,  but  it  will  take  political  stability  and considerable investment to unlock that potential. Getting rid of the corrupt Venezuelan government may be good but as Colin Powell once said: "If you break it, you own it".
+
+## WHAT ARE THE RISKS?
+
+All investments involve risks, including possible loss of principal.
+
+Equity securitiesare subject to price fluctuation and possible loss of principal. Special risks are associated with investing in foreign securities, including risks associated with political and economic developments, trading practices, availability of information, limited markets and currency exchange rate fluctuations and policies; investments in emerging markets involve heightened risks related to the same factors. Sovereign debt securities are subject to various risks in addition to those relating to debt securities and foreign securities generally, including, but not limited to, the risk that a governmental entity  may  be  unwilling  or  unable  to  pay  interest  and  repay  principal  on  its  sovereign  debt.  To  the  extent  a  strategy focuses on particular countries, regions, industries, sectors or types of investment from time to time, it may be subject to greater risks of adverse developments in such areas of focus than a strategy that invests in a wider variety of countries, regions, industries, sectors orinvestments.
+
+The information provided is not a recommendation or individual investment advice for any particular security, strategy, or investment product and is not an indication of the trading intent of any Franklin Templeton managed portfolio.
+
+## WF: 8117108 CONTRIBUTORS Stephen Dover, CFA Head of Franklin Templeton Institute Lawrence Hatheway Global Investment StrategistFranklin Templeton Institute IMPORTANT LEGAL INFORMATION
+
+This material is intended to be of general interest only and should not be construed as individual investment advice or a recommendation or solicitation to buy, sell or hold any security or to adopt any investment strategy. It does not constitute legal or tax advice. This material may not be reproduced, distributed or published without prior written permission from Franklin Templeton.
+
+The views expressed are those of the investment manager and the comments, opinions and analyses are rendered as at publication date and may change without notice. The underlying assumptions and these views are subject to change based  on  market  and  other  conditions  and  may  differ  from  other  portfolio  managers  or  of  the  firm  as  a  whole.  The information provided in this material is not intended as a complete analysis of every material fact regarding any country, region or market. There is no assurance that any prediction, projection or forecast on the economy, stock market, bond market or the economic trends of the markets will be realized. The value of investments and the income from them can go down as well as up and you may not get back the full amount that you invested.Past performance is not necessarily indicative nor a guarantee of future performance. All investments involve risks, including possible loss of principal.
+
+Any research and analysis contained in this material has been procured by Franklin Templeton for its own purposes and may be acted upon in that connection and, as such, is provided to you incidentally. Data from third party sources may have  been  used  in  the  preparation  of  this  material  and  Franklin  Templeton  ("FT")  has  not  independently  verified, validated or audited such data.  Although information has been obtained from sources that Franklin Templeton believes to be reliable, no guarantee can be given as to its accuracy and such information may be incomplete or condensed and may be subject to change at any time without notice. The mention of any individual securities should neither constitute nor be construed as a recommendation to purchase, hold or sell any securities, and the information provided regarding such individual securities (if any) is not a sufficient basis upon which to make an investment decision. FT accepts no liability  whatsoever  for  any  loss  arising  from  use  of  this  information  and  reliance  upon  the  comments,  opinions  and analyses in the material is at the sole discretion of the user.
+
+Franklin  Templeton  has  environmental,  social  and  governance  (ESG)  capabilities;  however,  not  all  strategies  or products for a strategy consider "ESG" as part of their investment process.
+
+Products, services and information may not be available in all jurisdictions and are offered outside the U.S. by other FT affiliates and/or their distributors as local laws and regulation permits. Please consult your own financial professional or Franklin Templeton institutional contact for further information on availability of products and services in your jurisdiction.
+
+Issued  in  the  U.S.by  Franklin  Templeton,  One  Franklin  Parkway,  San  Mateo,  California  94403-1906,  (800)  DIAL BEN/342-5236,  franklintempleton.com.  Investments  are  not  FDIC  insured;  may  lose  value;  and  are  not  bank guaranteed.
+
+You need Adobe Acrobat Reader to view and print PDF documents.Download a free version from Adobe's website. CFA and Chartered Financial Analyst are trademarks owned by CFA Institute.

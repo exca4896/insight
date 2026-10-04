@@ -1,0 +1,51 @@
+## September FOMC recap-labor market jitters Trump inflation
+
+Source: https://www.franklintempleton.com/articles/2025/western-asset/september-fomc-recap-labor-market-jitters-trump-inflation
+
+Published: SEPTEMBER 18, 2025 Extraction method: selenium
+
+## September FOMC recap-labor market jitters Trump inflation
+
+For the first time since December 2024, the Federal Open Market Committee (FOMC) lowered its policy rate by 25 basis points (bps), setting the target range for the fed funds rate at 4.00% to 4.25%. The move itself was hardly surprising, but a recent string of significantly weaker labor market data alongside mounting political pressure advocating for a more sizeable move made the communication particularly relevant for a market already pricing in a series of additional rate reductions.
+
+In  the  prepared  statement,  the  committee  dropped  its  previous  characterization  of  the  labor  market  as  "solid"  and replaced  it  with  a  judgment  that  "downside  risks  to  employment  have  risen."  Inflation  was  characterized  as  having "moved up," but the clear takeaway was that a rapidly weakening labor market had caused a meaningful shift in the balance of risks, causing the Federal Reserve (Fed) to re-engage with rate cuts. Despite predictions for as many as three dovish dissents from Fed governors, it was only the newly appointed Stephen Miran who dissented in favor of a larger 50-bp cut. Powell later went on to say that the committee did not seriously consider a 50-bp cut.
+
+In the Summary of Economic Projections (SEP), the median committee member now anticipates a total of 75 bps of cuts in 2025 (including today's move). This compares to a total of 50 bps projected in the June SEP. Notably, seven of the 19 members  now  foresee  no  further  rate  reductions  this  year,  indicating  a  stark  bifurcation  within  the  committee.  The median forecasts for both 2026 and 2027 were each revised downward by 0.25%. Modest upgrades were made to gross domestic product (GDP) growth expectations and despite the heavy focus on labor market weakness, projections for the unemployment rate remained unchanged for 2025 and were revised lower for 2026 and 2027.
+
+At  the  post-meeting press conference, Fed Chair Jerome Powell spent the bulk of the time fielding questions on his assessment of the balance of risks, which in his words has been "moving toward equality." Though inflation remains above the Fed's 2% target, we believe that weaker job gains, especially after  a  series  of  downward  revisions,  have shifted  the  balance  of  risks  meaningfully  in  favor  of  focusing  on  the  employment  side  of  the  Fed's  dual  mandate. Historically,  job  creation  at  the  recent  pace  has  often  preceded  periods  of  much  slower  growth.  For  that  reason,  we remain highly attentive to any further deterioration but are unconvinced that a near-term recessionary outcome is likely. Sentiment  surveys  and  other  measures  of  uncertainty  have  consistently  reflected  increased  concern  in  the  wake  of continually evolving trade policy. Our view has been that this would translate into a delayed or cautious approach to business hiring plans, capital expenditure and consumer spending.
+
+More recently, however, trade policy has become less volatile, providing businesses and consumers with greater clarity about the environment moving forward. While tariffs have lifted goods prices, the overall impact has been spread out over time and is likely to be less than initially feared. Financial conditions remain easy and are poised to become easier with lower policy rates. The positive impacts of the fiscal bill passed in July have likely not yet been felt and could spur growth and broad-based capital investment as soon as early 2026. While we recognize that lower-income households now appear more stretched after both recent inflation and slower job gains, aggregate consumer spending has shown signs of recovery since the second quarter. Household balance sheets in aggregate remain healthy after a long period of consumer  deleveraging.  Housing  activity  has  been  sluggish,  but  that  too  could  be  given  a  fillip  in  the  near  term  by mortgage rates that are now at the lowest levels since early 2023.
+
+Cutting today in support of a weakening labor market is not controversial given our and the Fed's shared view that policy rates are still a ways from neutral. But as additional cuts are realized over the next one to two quarters, the committee will need to reassess the balance of risks in the context of a policy stance that is closer to neutral. Combining this fact with the possible stabilizing forces mentioned earlier makes it unlikely that the Fed will execute an uninterrupted series of rate cuts below 3.00% as currently priced by the market. While that will take some time to play out, we believe that in the interim, US fixed-income will continue to outperform cash and that the incremental yield available on high quality corporate and structured product securities will look attractive.
+
+## WHAT ARE THE RISKS?
+
+All investments involve risks, including possible loss of principal. Please note that an investor cannot invest directly in an index. Unmanaged index returns do not reflect any fees, expenses or sales charges. Past performance is no guarantee of future results.
+
+Fixed-income securitiesinvolve interest rate, credit, inflation and reinvestment risks; and possible loss of principal. As interest rates rise, the value of fixed income securities falls.
+
+Commodities and currenciescontain heightened risk that include market, political, regulatory, and natural conditions and may not be suitable for all investors.
+
+US Treasuriesare direct debt obligations issued and backed by the "full faith and credit" of the US government. The US government guarantees the principal and interest payments on US Treasuries when the securities are held to maturity. Unlike US Treasuries, debt securities issued by the federal agencies and instrumentalities and related investments may or  may not be backed by the full faith and credit of the US government. Even when the US government guarantees principal  and  interest  payments  on  securities,  this  guarantee  does  not  apply  to  losses  resulting  from  declines  in  the market value of these securities.
+
+## WF: 6749108
+
+View more about Western Asset and the strategies they manage.
+
+## CONTRIBUTORS Nicholas J. Mastroianni, CFA Western Asset Related Content Explore Western Asset Insights RELATED CONTENT IMPORTANT LEGAL INFORMATION
+
+This material is intended to be of general interest only and should not be construed as individual investment advice or a recommendation or solicitation to buy, sell or hold any security or to adopt any investment strategy. It does not constitute legal or tax advice. This material may not be reproduced, distributed or published without prior written permission from Franklin Templeton.
+
+The views expressed are those of the investment manager and the comments, opinions and analyses are rendered as at publication date and may change without notice. The underlying assumptions and these views are subject to change based  on  market  and  other  conditions  and  may  differ  from  other  portfolio  managers  or  of  the  firm  as  a  whole.  The information provided in this material is not intended as a complete analysis of every material fact regarding any country, region or market. There is no assurance that any prediction, projection or forecast on the economy, stock market, bond market or the economic trends of the markets will be realized. The value of investments and the income from them can go down as well as up and you may not get back the full amount that you invested.Past performance is not necessarily indicative nor a guarantee of future performance. All investments involve risks, including possible loss of principal.
+
+Any research and analysis contained in this material has been procured by Franklin Templeton for its own purposes and may be acted upon in that connection and, as such, is provided to you incidentally. Data from third party sources may have  been  used  in  the  preparation  of  this  material  and  Franklin  Templeton  ("FT")  has  not  independently  verified, validated or audited such data.  Although information has been obtained from sources that Franklin Templeton believes to be reliable, no guarantee can be given as to its accuracy and such information may be incomplete or condensed and may be subject to change at any time without notice. The mention of any individual securities should neither constitute nor be construed as a recommendation to purchase, hold or sell any securities, and the information provided regarding such individual securities (if any) is not a sufficient basis upon which to make an investment decision. FT accepts no liability  whatsoever  for  any  loss  arising  from  use  of  this  information  and  reliance  upon  the  comments,  opinions  and analyses in the material is at the sole discretion of the user.
+
+Franklin  Templeton  has  environmental,  social  and  governance  (ESG)  capabilities;  however,  not  all  strategies  or products for a strategy consider "ESG" as part of their investment process.
+
+Products, services and information may not be available in all jurisdictions and are offered outside the U.S. by other FT affiliates and/or their distributors as local laws and regulation permits. Please consult your own financial professional or Franklin Templeton institutional contact for further information on availability of products and services in your jurisdiction.
+
+Issued  in  the  U.S.by  Franklin  Templeton,  One  Franklin  Parkway,  San  Mateo,  California  94403-1906,  (800)  DIAL BEN/342-5236,  franklintempleton.com.  Investments  are  not  FDIC  insured;  may  lose  value;  and  are  not  bank guaranteed.
+
+You need Adobe Acrobat Reader to view and print PDF documents.Download a free version from Adobe's website.
+
+CFA and Chartered Financial Analyst are trademarks owned by CFA Institute.
